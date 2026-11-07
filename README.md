@@ -3,7 +3,7 @@
 > A full-stack MERN application with Google Gemini AI interview coaching, interactive activity calendar, skills management, and dark/light mode.
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Website-success?style=for-the-badge&logo=render)](https://job-application-tracker-8u4l.onrender.com)
-[![API Status](https://img.shields.io/badge/API-Render%20Web%20Service-blue?style=for-the-badge&logo=render)](https://job-application-api-ov3f.onrender.com/api/health)
+[![API Status](https://img.shields.io/badge/API-Render%20Web%20Service-blue?style=for-the-badge&logo=render)](https://job-application-tracker-rs0x.onrender.com/api/health)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ---
@@ -11,7 +11,7 @@
 ## 🌐 Live Cloud Deployment
 
 * **Frontend Application**: [https://job-application-tracker-8u4l.onrender.com](https://job-application-tracker-8u4l.onrender.com)
-* **Backend REST API**: [https://job-application-api-ov3f.onrender.com](https://job-application-api-ov3f.onrender.com)
+* **Backend REST API**: [https://job-application-tracker-rs0x.onrender.com](https://job-application-tracker-rs0x.onrender.com)
 * **Database**: MongoDB Atlas Cloud (Multi-region cluster)
 
 ---
